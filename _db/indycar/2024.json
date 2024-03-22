@@ -2,6 +2,7 @@
   "races": [
     {
       "name": "Firestone Grand Prix of St. Petersburg",
+      "category": "Indycar",
       "sessions": {
         "practice1": "2024-03-08T19:45:00Z",
         "practice2": "2024-03-09T14:35:00Z",
@@ -18,6 +19,7 @@
     },
     {
       "name": "$1 Million Challenge",
+      "category": "Indycar",
       "sessions": {
         "Open Test Session 1": "2024-03-22T16:00:00Z",
         "Open Test Session 2": "2024-03-22T21:00:00Z",
@@ -35,6 +37,7 @@
     },
     {
       "name": "Acura Grand Prix of Long Beach",
+      "category": "Indycar",
       "sessions": {
         "practice1": "2024-04-19T21:50:00Z",
         "practice2": "2024-04-20T15:25:00Z",
@@ -51,6 +54,7 @@
     },
     {
       "name": "Children\u2019s of Alabama Indy Grand Prix",
+      "category": "Indycar",
       "sessions": {
         "race": "2024-04-28T17:30:00Z"
       },
@@ -63,6 +67,7 @@
     },
     {
       "name": "Sonsio Grand Prix",
+      "category": "Indycar",
       "sessions": {
         "race": "2024-05-11T19:00:00Z"
       },
@@ -75,6 +80,7 @@
     },
     {
       "name": "108th Running of the Indianapolis 500",
+      "category": "Indycar",
       "sessions": {
         "race": "2024-05-26T15:00:00Z"
       },
@@ -87,6 +93,7 @@
     },
     {
       "name": "Chevrolet Detroit Grand Prix",
+      "category": "Indycar",
       "sessions": {
         "race": "2024-06-02T16:00:00Z"
       },
@@ -99,6 +106,7 @@
     },
     {
       "name": "XPEL Grand Prix at Road America",
+      "category": "Indycar",
       "sessions": {
         "race": "2024-06-09T19:30:00Z"
       },
@@ -111,6 +119,7 @@
     },
     {
       "name": "Firestone Grand Prix of Monterey",
+      "category": "Indycar",
       "sessions": {
         "race": "2024-06-23T22:00:00Z"
       },
@@ -123,6 +132,7 @@
     },
     {
       "name": "Honda Indy 200 at Mid-Ohio",
+      "category": "Indycar",
       "sessions": {
         "race": "2024-07-07T17:30:00Z"
       },
@@ -135,6 +145,7 @@
     },
     {
       "name": "Hy-Vee INDYCAR Race Weekend Race 1",
+      "category": "Indycar",
       "sessions": {
         "race": "2024-07-14T00:00:00Z"
       },
@@ -147,6 +158,7 @@
     },
     {
       "name": "Hy-Vee INDYCAR Race Weekend Race 2",
+      "category": "Indycar",
       "sessions": {
         "race": "2024-07-14T16:00:00Z"
       },
@@ -159,6 +171,7 @@
     },
     {
       "name": "Ontario Honda Dealers Indy Toronto",
+      "category": "Indycar",
       "sessions": {
         "race": "2024-07-21T17:00:00Z"
       },
@@ -171,6 +184,7 @@
     },
     {
       "name": "Bommarito Automotive Group 500",
+      "category": "Indycar",
       "sessions": {
         "race": "2024-08-17T22:00:00Z"
       },
@@ -183,6 +197,7 @@
     },
     {
       "name": "BITNILE.COM Grand Prix of Portland",
+      "category": "Indycar",
       "sessions": {
         "race": "2024-08-25T19:00:00Z"
       },
@@ -195,6 +210,7 @@
     },
     {
       "name": "Hy-Vee Milwaukee Mile 250 - Race 1",
+      "category": "Indycar",
       "sessions": {
         "race": "2024-08-31T22:00:00Z"
       },
@@ -207,6 +223,7 @@
     },
     {
       "name": "Hy-Vee Milwaukee Mile 250 - Race 2",
+      "category": "Indycar",
       "sessions": {
         "race": "2024-09-01T18:30:00Z"
       },
@@ -219,6 +236,7 @@
     },
     {
       "name": "Big Machine Music City Grand Prix",
+      "category": "Indycar",
       "sessions": {
         "race": "2024-09-15T19:00:00Z"
       },

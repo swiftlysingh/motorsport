@@ -13,7 +13,8 @@
         "practice2": "2024-01-13T13:25:00Z",
         "qualifying": "2024-01-13T15:40:00Z",
         "race": "2024-01-13T20:04:00Z"
-      }
+      },
+      "category": "Formula E"
     },
     {
       "name": "Diriyah ePrix",
@@ -28,7 +29,8 @@
         "practice2": "2024-01-26T09:55:00Z",
         "qualifying": "2024-01-26T12:20:00Z",
         "race": "2024-01-26T17:04:00Z"
-      }
+      },
+      "category": "Formula E"
     },
     {
       "name": "Diriyah ePrix",
@@ -42,7 +44,8 @@
         "practice3": "2024-01-27T09:55:00Z",
         "qualifying": "2024-01-27T12:20:00Z",
         "race": "2024-01-27T17:04:00Z"
-      }
+      },
+      "category": "Formula E"
     },
     {
       "name": "Sao Paulo ePrix",
@@ -57,7 +60,8 @@
         "practice2": "2024-03-16T10:30:00Z",
         "qualifying": "2024-03-16T12:40:00Z",
         "race": "2024-03-16T17:03:00Z"
-      }
+      },
+      "category": "Formula E"
     },
     {
       "name": "Tokyo ePrix",
@@ -72,7 +76,8 @@
         "practice2": "2024-03-29T22:55:00Z",
         "qualifying": "2024-03-30T01:20:00Z",
         "race": "2024-03-30T06:03:00Z"
-      }
+      },
+      "category": "Formula E"
     },
     {
       "name": "Misano ePrix",
@@ -87,7 +92,8 @@
         "practice2": "2024-04-13T05:55:00Z",
         "qualifying": "2024-04-13T08:20:00Z",
         "race": "2024-04-13T13:03:00Z"
-      }
+      },
+      "category": "Formula E"
     },
     {
       "name": "Misano ePrix",
@@ -101,7 +107,8 @@
         "practice3": "2024-04-14T05:55:00Z",
         "qualifying": "2024-04-14T08:20:00Z",
         "race": "2024-04-14T13:03:00Z"
-      }
+      },
+      "category": "Formula E"
     },
     {
       "name": "Monaco ePrix",
@@ -116,7 +123,8 @@
         "practice2": "2024-04-27T07:05:00Z",
         "qualifying": "2024-04-27T08:40:00Z",
         "race": "2024-04-27T13:03:00Z"
-      }
+      },
+      "category": "Formula E"
     },
     {
       "name": "Berlin ePrix",
@@ -131,7 +139,8 @@
         "practice2": "2024-05-11T05:55:00Z",
         "qualifying": "2024-05-11T08:20:00Z",
         "race": "2024-05-11T13:03:00Z"
-      }
+      },
+      "category": "Formula E"
     },
     {
       "name": "Berlin ePrix",
@@ -145,7 +154,8 @@
         "practice3": "2024-05-12T05:55:00Z",
         "qualifying": "2024-05-12T08:20:00Z",
         "race": "2024-05-12T13:03:00Z"
-      }
+      },
+      "category": "Formula E"
     },
     {
       "name": "Shanghai ePrix",
@@ -160,7 +170,8 @@
         "practice2": "2024-05-24T23:55:00Z",
         "qualifying": "2024-05-25T02:20:00Z",
         "race": "2024-05-25T07:03:00Z"
-      }
+      },
+      "category": "Formula E"
     },
     {
       "name": "Shanghai ePrix",
@@ -174,7 +185,8 @@
         "practice3": "2024-05-25T23:55:00Z",
         "qualifying": "2024-05-26T02:20:00Z",
         "race": "2024-05-26T07:03:00Z"
-      }
+      },
+      "category": "Formula E"
     },
     {
       "name": "Portland ePrix",
@@ -189,7 +201,8 @@
         "practice2": "2024-06-29T14:25:00Z",
         "qualifying": "2024-06-29T16:40:00Z",
         "race": "2024-06-29T21:03:00Z"
-      }
+      },
+      "category": "Formula E"
     },
     {
       "name": "Portland ePrix",
@@ -203,7 +216,8 @@
         "practice3": "2024-06-30T14:25:00Z",
         "qualifying": "2024-06-30T16:40:00Z",
         "race": "2024-06-30T21:03:00Z"
-      }
+      },
+      "category": "Formula E"
     },
     {
       "name": "London ePrix",
@@ -218,7 +232,8 @@
         "practice2": "2024-07-20T08:55:00Z",
         "qualifying": "2024-07-20T11:20:00Z",
         "race": "2024-07-20T16:03:00Z"
-      }
+      },
+      "category": "Formula E"
     },
     {
       "name": "London ePrix",
@@ -232,7 +247,8 @@
         "practice3": "2024-07-21T08:55:00Z",
         "qualifying": "2024-07-21T11:20:00Z",
         "race": "2024-07-21T16:03:00Z"
-      }
+      },
+      "category": "Formula E"
     }
   ]
 }
