@@ -7,6 +7,7 @@
       "longitude": 0,
       "round": 1,
       "slug": "jeddah",
+      "category": "Extreme E",
       "localeKey": "jeddah",
       "sessions": {
         "shakedown": "2024-02-16T00:00:00Z",
@@ -23,6 +24,7 @@
       "longitude": 0,
       "round": 2,
       "slug": "europe",
+      "category": "Extreme E",
       "localeKey": "europe",
       "tbc": true,
       "sessions": {
@@ -40,6 +42,7 @@
       "longitude": 0,
       "round": 3,
       "slug": "italy",
+      "category": "Extreme E",
       "localeKey": "italy",
       "tbc": true,
       "sessions": {
@@ -57,6 +60,7 @@
       "longitude": 0,
       "round": 4,
       "slug": "italy",
+      "category": "Extreme E",
       "localeKey": "italy",
       "tbc": true,
       "sessions": {
@@ -74,6 +78,7 @@
       "longitude": 0,
       "round": 5,
       "slug": "phoenix",
+      "category": "Extreme E",
       "localeKey": "phoenix",
       "tbc": true,
       "sessions": {
