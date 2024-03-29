@@ -8,12 +8,25 @@
       "round": 1,
       "slug": "bahrain",
       "localeKey": "bahrain",
-      "sessions": {
-        "practice": "2024-02-29T07:55:00Z",
-        "qualifying": "2024-02-29T13:00:00Z",
-        "sprint": "2024-03-01T10:15:00Z",
-        "race": "2024-03-02T09:00:00Z"
-      },
+      "race": "2024-03-02T09:00:00Z",
+      "sessions": [
+        {
+          "sessionName": "practice",
+          "sessionTime": "2024-02-29T07:55:00Z"
+        },
+        {
+          "sessionName": "qualifying",
+          "sessionTime": "2024-02-29T13:00:00Z"
+        },
+        {
+          "sessionName": "sprint",
+          "sessionTime": "2024-03-01T10:15:00Z"
+        },
+        {
+          "sessionName": "race",
+          "sessionTime": "2024-03-02T09:00:00Z"
+        }
+      ],
       "category": "F3"
     },
     {
@@ -24,12 +37,25 @@
       "round": 2,
       "slug": "melbourne",
       "localeKey": "melbourne",
-      "sessions": {
-        "practice": "2024-03-21T21:50:00Z",
-        "qualifying": "2024-03-22T03:00:00Z",
-        "sprint": "2024-03-23T00:15:00Z",
-        "race": "2024-03-23T22:05:00Z"
-      },
+      "race": "2024-03-23T22:05:00Z",
+      "sessions": [
+        {
+          "sessionName": "practice",
+          "sessionTime": "2024-03-21T21:50:00Z"
+        },
+        {
+          "sessionName": "qualifying",
+          "sessionTime": "2024-03-22T03:00:00Z"
+        },
+        {
+          "sessionName": "sprint",
+          "sessionTime": "2024-03-23T00:15:00Z"
+        },
+        {
+          "sessionName": "race",
+          "sessionTime": "2024-03-23T22:05:00Z"
+        }
+      ],
       "category": "F3"
     },
     {
@@ -40,12 +66,25 @@
       "round": 3,
       "slug": "emilia-romagna",
       "localeKey": "emilia-romagna",
-      "sessions": {
-        "practice": "2024-05-17T06:45:00Z",
-        "qualifying": "2024-05-17T09:55:00Z",
-        "sprint": "2024-05-18T14:45:00Z",
-        "race": "2024-05-19T07:20:00Z"
-      },
+      "race": "2024-05-19T07:20:00Z",
+      "sessions": [
+        {
+          "sessionName": "practice",
+          "sessionTime": "2024-05-17T06:45:00Z"
+        },
+        {
+          "sessionName": "qualifying",
+          "sessionTime": "2024-05-17T09:55:00Z"
+        },
+        {
+          "sessionName": "sprint",
+          "sessionTime": "2024-05-18T14:45:00Z"
+        },
+        {
+          "sessionName": "race",
+          "sessionTime": "2024-05-19T07:20:00Z"
+        }
+      ],
       "category": "F3"
     },
     {
@@ -56,11 +95,21 @@
       "round": 4,
       "slug": "monaco",
       "localeKey": "monaco",
-      "sessions": {
-        "practice": "2024-05-23T06:45:00Z",
-        "sprint": "2024-05-25T14:45:00Z",
-        "race": "2024-05-26T07:20:00Z"
-      },
+      "race": "2024-05-26T07:20:00Z",
+      "sessions": [
+        {
+          "sessionName": "practice",
+          "sessionTime": "2024-05-23T06:45:00Z"
+        },
+        {
+          "sessionName": "sprint",
+          "sessionTime": "2024-05-25T14:45:00Z"
+        },
+        {
+          "sessionName": "race",
+          "sessionTime": "2024-05-26T07:20:00Z"
+        }
+      ],
       "category": "F3"
     },
     {
@@ -71,12 +120,25 @@
       "round": 5,
       "slug": "spanish",
       "localeKey": "spanish",
-      "sessions": {
-        "practice": "2024-06-21T06:45:00Z",
-        "qualifying": "2024-06-21T09:55:00Z",
-        "sprint": "2024-06-22T14:45:00Z",
-        "race": "2024-06-23T07:20:00Z"
-      },
+      "race": "2024-06-23T07:20:00Z",
+      "sessions": [
+        {
+          "sessionName": "practice",
+          "sessionTime": "2024-06-21T06:45:00Z"
+        },
+        {
+          "sessionName": "qualifying",
+          "sessionTime": "2024-06-21T09:55:00Z"
+        },
+        {
+          "sessionName": "sprint",
+          "sessionTime": "2024-06-22T14:45:00Z"
+        },
+        {
+          "sessionName": "race",
+          "sessionTime": "2024-06-23T07:20:00Z"
+        }
+      ],
       "category": "F3"
     },
     {
@@ -87,12 +149,25 @@
       "round": 6,
       "slug": "austrian",
       "localeKey": "austrian",
-      "sessions": {
-        "practice": "2024-06-28T06:45:00Z",
-        "qualifying": "2024-06-28T09:55:00Z",
-        "sprint": "2024-06-29T14:45:00Z",
-        "race": "2024-06-30T07:20:00Z"
-      },
+      "race": "2024-06-30T07:20:00Z",
+      "sessions": [
+        {
+          "sessionName": "practice",
+          "sessionTime": "2024-06-28T06:45:00Z"
+        },
+        {
+          "sessionName": "qualifying",
+          "sessionTime": "2024-06-28T09:55:00Z"
+        },
+        {
+          "sessionName": "sprint",
+          "sessionTime": "2024-06-29T14:45:00Z"
+        },
+        {
+          "sessionName": "race",
+          "sessionTime": "2024-06-30T07:20:00Z"
+        }
+      ],
       "category": "F3"
     },
     {
@@ -103,12 +178,25 @@
       "round": 7,
       "slug": "british",
       "localeKey": "british",
-      "sessions": {
-        "practice": "2024-07-05T07:45:00Z",
-        "qualifying": "2024-07-05T10:55:00Z",
-        "sprint": "2024-07-06T15:45:00Z",
-        "race": "2024-07-07T08:20:00Z"
-      },
+      "race": "2024-07-07T08:20:00Z",
+      "sessions": [
+        {
+          "sessionName": "practice",
+          "sessionTime": "2024-07-05T07:45:00Z"
+        },
+        {
+          "sessionName": "qualifying",
+          "sessionTime": "2024-07-05T10:55:00Z"
+        },
+        {
+          "sessionName": "sprint",
+          "sessionTime": "2024-07-06T15:45:00Z"
+        },
+        {
+          "sessionName": "race",
+          "sessionTime": "2024-07-07T08:20:00Z"
+        }
+      ],
       "category": "F3"
     },
     {
@@ -119,12 +207,25 @@
       "round": 8,
       "slug": "hungarian",
       "localeKey": "hungarian",
-      "sessions": {
-        "practice": "2024-07-19T06:45:00Z",
-        "qualifying": "2024-07-19T09:55:00Z",
-        "sprint": "2024-07-20T14:45:00Z",
-        "race": "2024-07-21T07:20:00Z"
-      },
+      "race": "2024-07-21T07:20:00Z",
+      "sessions": [
+        {
+          "sessionName": "practice",
+          "sessionTime": "2024-07-19T06:45:00Z"
+        },
+        {
+          "sessionName": "qualifying",
+          "sessionTime": "2024-07-19T09:55:00Z"
+        },
+        {
+          "sessionName": "sprint",
+          "sessionTime": "2024-07-20T14:45:00Z"
+        },
+        {
+          "sessionName": "race",
+          "sessionTime": "2024-07-21T07:20:00Z"
+        }
+      ],
       "category": "F3"
     },
     {
@@ -135,12 +236,25 @@
       "round": 9,
       "slug": "belgian",
       "localeKey": "belgian",
-      "sessions": {
-        "practice": "2024-07-26T06:45:00Z",
-        "qualifying": "2024-07-26T09:55:00Z",
-        "sprint": "2024-07-27T14:45:00Z",
-        "race": "2024-07-28T07:20:00Z"
-      },
+      "race": "2024-07-28T07:20:00Z",
+      "sessions": [
+        {
+          "sessionName": "practice",
+          "sessionTime": "2024-07-26T06:45:00Z"
+        },
+        {
+          "sessionName": "qualifying",
+          "sessionTime": "2024-07-26T09:55:00Z"
+        },
+        {
+          "sessionName": "sprint",
+          "sessionTime": "2024-07-27T14:45:00Z"
+        },
+        {
+          "sessionName": "race",
+          "sessionTime": "2024-07-28T07:20:00Z"
+        }
+      ],
       "category": "F3"
     },
     {
@@ -151,12 +265,25 @@
       "round": 10,
       "slug": "italian",
       "localeKey": "italian",
-      "sessions": {
-        "practice": "2024-08-30T06:45:00Z",
-        "qualifying": "2024-08-30T09:55:00Z",
-        "sprint": "2024-08-31T14:45:00Z",
-        "race": "2024-09-01T07:20:00Z"
-      },
+      "race": "2024-09-01T07:20:00Z",
+      "sessions": [
+        {
+          "sessionName": "practice",
+          "sessionTime": "2024-08-30T06:45:00Z"
+        },
+        {
+          "sessionName": "qualifying",
+          "sessionTime": "2024-08-30T09:55:00Z"
+        },
+        {
+          "sessionName": "sprint",
+          "sessionTime": "2024-08-31T14:45:00Z"
+        },
+        {
+          "sessionName": "race",
+          "sessionTime": "2024-09-01T07:20:00Z"
+        }
+      ],
       "category": "F3"
     }
   ]

@@ -3,13 +3,29 @@
     {
       "name": "Firestone Grand Prix of St. Petersburg",
       "category": "Indycar",
-      "sessions": {
-        "practice1": "2024-03-08T19:45:00Z",
-        "practice2": "2024-03-09T14:35:00Z",
-        "qualifying": "2024-03-09T19:00:00Z",
-        "warmup": "2024-03-10T13:10:00Z",
-        "race": "2024-03-10T16:15:00Z"
-      },
+      "race": "2024-03-10T16:15:00Z",
+      "sessions": [
+        {
+          "sessionName": "practice1",
+          "sessionTime": "2024-03-08T19:45:00Z"
+        },
+        {
+          "sessionName": "practice2",
+          "sessionTime": "2024-03-09T14:35:00Z"
+        },
+        {
+          "sessionName": "qualifying",
+          "sessionTime": "2024-03-09T19:00:00Z"
+        },
+        {
+          "sessionName": "warmup",
+          "sessionTime": "2024-03-10T13:10:00Z"
+        },
+        {
+          "sessionName": "race",
+          "sessionTime": "2024-03-10T16:15:00Z"
+        }
+      ],
       "tbc": false,
       "round": 1,
       "slug": "firestone-grand-prix-of-st-petersburg",
@@ -20,14 +36,33 @@
     {
       "name": "$1 Million Challenge",
       "category": "Indycar",
-      "sessions": {
-        "Open Test Session 1": "2024-03-22T16:00:00Z",
-        "Open Test Session 2": "2024-03-22T21:00:00Z",
-        "Open Test Session 3": "2024-03-23T16:00:00Z",
-        "Open Test Session 4": "2024-03-23T20:00:00Z",
-        "qualifying": "2024-03-24T00:00:00Z",
-        "race": "2024-03-24T16:15:00Z"
-      },
+      "race": "2024-03-24T16:15:00Z",
+      "sessions": [
+        {
+          "sessionName": "Open Test Session 1",
+          "sessionTime": "2024-03-22T16:00:00Z"
+        },
+        {
+          "sessionName": "Open Test Session 2",
+          "sessionTime": "2024-03-22T21:00:00Z"
+        },
+        {
+          "sessionName": "Open Test Session 3",
+          "sessionTime": "2024-03-23T16:00:00Z"
+        },
+        {
+          "sessionName": "Open Test Session 4",
+          "sessionTime": "2024-03-23T20:00:00Z"
+        },
+        {
+          "sessionName": "qualifying",
+          "sessionTime": "2024-03-24T00:00:00Z"
+        },
+        {
+          "sessionName": "race",
+          "sessionTime": "2024-03-24T16:15:00Z"
+        }
+      ],
       "tbc": false,
       "round": 2,
       "slug": "1-million-challenge",
@@ -38,13 +73,29 @@
     {
       "name": "Acura Grand Prix of Long Beach",
       "category": "Indycar",
-      "sessions": {
-        "practice1": "2024-04-19T21:50:00Z",
-        "practice2": "2024-04-20T15:25:00Z",
-        "qualifying": "2024-04-20T18:25:00Z",
-        "warmup": "2024-04-21T16:00:00Z",
-        "race": "2024-04-21T19:30:00Z"
-      },
+      "race": "2024-04-21T19:30:00Z",
+      "sessions": [
+        {
+          "sessionName": "practice1",
+          "sessionTime": "2024-04-19T21:50:00Z"
+        },
+        {
+          "sessionName": "practice2",
+          "sessionTime": "2024-04-20T15:25:00Z"
+        },
+        {
+          "sessionName": "qualifying",
+          "sessionTime": "2024-04-20T18:25:00Z"
+        },
+        {
+          "sessionName": "warmup",
+          "sessionTime": "2024-04-21T16:00:00Z"
+        },
+        {
+          "sessionName": "race",
+          "sessionTime": "2024-04-21T19:30:00Z"
+        }
+      ],
       "tbc": false,
       "round": 3,
       "slug": "acura-grand-prix-of-long-beach",
@@ -55,9 +106,13 @@
     {
       "name": "Children\u2019s of Alabama Indy Grand Prix",
       "category": "Indycar",
-      "sessions": {
-        "race": "2024-04-28T17:30:00Z"
-      },
+      "race": "2024-04-28T17:30:00Z",
+      "sessions": [
+        {
+          "sessionName": "race",
+          "sessionTime": "2024-04-28T17:30:00Z"
+        }
+      ],
       "tbc": false,
       "round": 4,
       "slug": "childrens-of-alabama-indy-grand-prix",
@@ -68,9 +123,13 @@
     {
       "name": "Sonsio Grand Prix",
       "category": "Indycar",
-      "sessions": {
-        "race": "2024-05-11T19:00:00Z"
-      },
+      "race": "2024-05-11T19:00:00Z",
+      "sessions": [
+        {
+          "sessionName": "race",
+          "sessionTime": "2024-05-11T19:00:00Z"
+        }
+      ],
       "tbc": true,
       "round": 5,
       "slug": "sonsio-grand-prix",
@@ -81,9 +140,13 @@
     {
       "name": "108th Running of the Indianapolis 500",
       "category": "Indycar",
-      "sessions": {
-        "race": "2024-05-26T15:00:00Z"
-      },
+      "race": "2024-05-26T15:00:00Z",
+      "sessions": [
+        {
+          "sessionName": "race",
+          "sessionTime": "2024-05-26T15:00:00Z"
+        }
+      ],
       "tbc": true,
       "round": 6,
       "slug": "108th-running-of-the-indianapolis-500",
@@ -94,9 +157,13 @@
     {
       "name": "Chevrolet Detroit Grand Prix",
       "category": "Indycar",
-      "sessions": {
-        "race": "2024-06-02T16:00:00Z"
-      },
+      "race": "2024-06-02T16:00:00Z",
+      "sessions": [
+        {
+          "sessionName": "race",
+          "sessionTime": "2024-06-02T16:00:00Z"
+        }
+      ],
       "tbc": true,
       "round": 7,
       "slug": "chevrolet-detroit-grand-prix",
@@ -107,9 +174,13 @@
     {
       "name": "XPEL Grand Prix at Road America",
       "category": "Indycar",
-      "sessions": {
-        "race": "2024-06-09T19:30:00Z"
-      },
+      "race": "2024-06-09T19:30:00Z",
+      "sessions": [
+        {
+          "sessionName": "race",
+          "sessionTime": "2024-06-09T19:30:00Z"
+        }
+      ],
       "tbc": true,
       "round": 8,
       "slug": "xpel-grand-prix-at-road-america",
@@ -120,9 +191,13 @@
     {
       "name": "Firestone Grand Prix of Monterey",
       "category": "Indycar",
-      "sessions": {
-        "race": "2024-06-23T22:00:00Z"
-      },
+      "race": "2024-06-23T22:00:00Z",
+      "sessions": [
+        {
+          "sessionName": "race",
+          "sessionTime": "2024-06-23T22:00:00Z"
+        }
+      ],
       "tbc": true,
       "round": 9,
       "slug": "firestone-grand-prix-of-monterey",
@@ -133,9 +208,13 @@
     {
       "name": "Honda Indy 200 at Mid-Ohio",
       "category": "Indycar",
-      "sessions": {
-        "race": "2024-07-07T17:30:00Z"
-      },
+      "race": "2024-07-07T17:30:00Z",
+      "sessions": [
+        {
+          "sessionName": "race",
+          "sessionTime": "2024-07-07T17:30:00Z"
+        }
+      ],
       "tbc": true,
       "round": 10,
       "slug": "honda-indy-200-at-midohio",
@@ -146,9 +225,13 @@
     {
       "name": "Hy-Vee INDYCAR Race Weekend Race 1",
       "category": "Indycar",
-      "sessions": {
-        "race": "2024-07-14T00:00:00Z"
-      },
+      "race": "2024-07-14T00:00:00Z",
+      "sessions": [
+        {
+          "sessionName": "race",
+          "sessionTime": "2024-07-14T00:00:00Z"
+        }
+      ],
       "tbc": true,
       "round": 11,
       "slug": "hyvee-indycar-race-weekend-race-1",
@@ -159,9 +242,13 @@
     {
       "name": "Hy-Vee INDYCAR Race Weekend Race 2",
       "category": "Indycar",
-      "sessions": {
-        "race": "2024-07-14T16:00:00Z"
-      },
+      "race": "2024-07-14T16:00:00Z",
+      "sessions": [
+        {
+          "sessionName": "race",
+          "sessionTime": "2024-07-14T16:00:00Z"
+        }
+      ],
       "tbc": true,
       "round": 12,
       "slug": "hyvee-indycar-race-weekend-race-2",
@@ -172,9 +259,13 @@
     {
       "name": "Ontario Honda Dealers Indy Toronto",
       "category": "Indycar",
-      "sessions": {
-        "race": "2024-07-21T17:00:00Z"
-      },
+      "race": "2024-07-21T17:00:00Z",
+      "sessions": [
+        {
+          "sessionName": "race",
+          "sessionTime": "2024-07-21T17:00:00Z"
+        }
+      ],
       "tbc": true,
       "round": 13,
       "slug": "ontario-honda-dealers-indy-toronto",
@@ -185,9 +276,13 @@
     {
       "name": "Bommarito Automotive Group 500",
       "category": "Indycar",
-      "sessions": {
-        "race": "2024-08-17T22:00:00Z"
-      },
+      "race": "2024-08-17T22:00:00Z",
+      "sessions": [
+        {
+          "sessionName": "race",
+          "sessionTime": "2024-08-17T22:00:00Z"
+        }
+      ],
       "tbc": true,
       "round": 14,
       "slug": "bommarito-automotive-group-500",
@@ -198,9 +293,13 @@
     {
       "name": "BITNILE.COM Grand Prix of Portland",
       "category": "Indycar",
-      "sessions": {
-        "race": "2024-08-25T19:00:00Z"
-      },
+      "race": "2024-08-25T19:00:00Z",
+      "sessions": [
+        {
+          "sessionName": "race",
+          "sessionTime": "2024-08-25T19:00:00Z"
+        }
+      ],
       "tbc": true,
       "round": 15,
       "slug": "bitnilecom-grand-prix-of-portland",
@@ -211,9 +310,13 @@
     {
       "name": "Hy-Vee Milwaukee Mile 250 - Race 1",
       "category": "Indycar",
-      "sessions": {
-        "race": "2024-08-31T22:00:00Z"
-      },
+      "race": "2024-08-31T22:00:00Z",
+      "sessions": [
+        {
+          "sessionName": "race",
+          "sessionTime": "2024-08-31T22:00:00Z"
+        }
+      ],
       "tbc": true,
       "round": 16,
       "slug": "hyvee-milwaukee-mile-250-race-1",
@@ -224,9 +327,13 @@
     {
       "name": "Hy-Vee Milwaukee Mile 250 - Race 2",
       "category": "Indycar",
-      "sessions": {
-        "race": "2024-09-01T18:30:00Z"
-      },
+      "race": "2024-09-01T18:30:00Z",
+      "sessions": [
+        {
+          "sessionName": "race",
+          "sessionTime": "2024-09-01T18:30:00Z"
+        }
+      ],
       "tbc": true,
       "round": 17,
       "slug": "hyvee-milwaukee-mile-250-race-2",
@@ -237,9 +344,13 @@
     {
       "name": "Big Machine Music City Grand Prix",
       "category": "Indycar",
-      "sessions": {
-        "race": "2024-09-15T19:00:00Z"
-      },
+      "race": "2024-09-15T19:00:00Z",
+      "sessions": [
+        {
+          "sessionName": "race",
+          "sessionTime": "2024-09-15T19:00:00Z"
+        }
+      ],
       "tbc": true,
       "round": 18,
       "slug": "big-machine-music-city-grand-prix",
